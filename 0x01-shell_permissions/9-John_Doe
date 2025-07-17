@@ -1,1 +1,4 @@
-Create 9-John_Doe script to set specific permissions to hello file
+#!/bin/bash
+chmod 715 hello
+
+
