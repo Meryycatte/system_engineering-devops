@@ -1,5 +1,6 @@
 #!/bin/bash
-( set -o posix ; set )
+(set -o posix; set)
+
 
 
 
