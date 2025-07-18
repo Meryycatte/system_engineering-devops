@@ -1,0 +1,3 @@
+#!/bin/bash
+# count directories in PATH, ignoring empty entries
+echo "$PATH" | tr ':' '\n' | grep -cve '^$'
